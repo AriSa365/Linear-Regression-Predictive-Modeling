@@ -1,4 +1,8 @@
 # Linear-Regression-Predictive-Modeling
+
+![LinearRegressionModel](https://github.com/AriSa365/Linear-Regression-Predictive-Modeling/assets/174586469/bf8cd207-cfb4-4202-a9bb-77b568b06236)
+
+
 ## OTT Media Service Provider Data
 ### ✤ Background
 - An over-the-top (OTT) media service is a media service offered directly to viewers via the internet. The term is most synonymous with subscription-based video-on-demand services that offer access to film and television content, including existing series acquired from other producers, as well as original content produced specifically for the service. They are typically accessed via websites on personal computers, apps on smartphones and tablets, or televisions with integrated Smart TV platforms.
